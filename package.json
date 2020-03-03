@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-manogel",
+  "version": "0.0.4",
+  "description": "My personal Create React App template.",
+  "keywords": [
+    "create-react-app",
+    "react",
+    "template"
+  ],
+  "homepage": "https://github.com/Manogel/cra-template-manogel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manogel/cra-template-manogel.git"
+  },
+  "license": "MIT",
+  "author": "Manoel Gomes <manoelgomes53@gmail.com>",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "main": "template.json",
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
+  "engines": {
+    "node": ">=10.15.0",
+    "npm": "! use yarn !",
+    "yarn": ">=1.0.0"
+  }
+}

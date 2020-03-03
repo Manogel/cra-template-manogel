@@ -1,0 +1,29 @@
+{
+  "package": {
+    "dependencies": {
+      "@testing-library/jest-dom": "latest",
+      "@testing-library/react": "latest",
+      "@testing-library/user-event": "latest",
+      "axios": "latest",
+      "polished": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "react-icons": "latest",
+      "react-redux": "latest",
+      "react-router-dom": "latest",
+      "react-scripts": "latest",
+      "reactotron-react-js": "latest",
+      "reactotron-redux": "latest",
+      "reactotron-redux-saga": "latest",
+      "redux": "latest",
+      "redux-saga": "latest",
+      "reduxsauce": "latest",
+      "seamless-immutable": "latest",
+      "styled-components": "latest"
+    },
+    "scripts": {
+      "serve": "serve -s build",
+      "build-and-serve": "npm run build && npm run serve"
+    }
+  }
+}
