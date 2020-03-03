@@ -1,4 +1,4 @@
-# CRA Template Ganevru
+# CRA Template Manogel
 
 My personal Create React App template.
 
